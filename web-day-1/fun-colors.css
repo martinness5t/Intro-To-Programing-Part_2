@@ -1,0 +1,14 @@
+body {
+    background-color: chartreuse;
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    border-color: green;
+    border-style: solid;
+}
+
+p {
+    font-size: small;
+}
